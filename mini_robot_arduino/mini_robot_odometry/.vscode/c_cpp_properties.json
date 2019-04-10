@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/kan5r/.arduino15/packages/arduino/tools/**",
+                "/home/kan5r/.arduino15/packages/arduino/hardware/sam/1.6.12/**",
+                "/home/kan5r/Arduino/libraries/ros_lib/**"
+            ],
+            "forcedInclude": [
+                "/home/kan5r/.arduino15/packages/arduino/hardware/sam/1.6.12/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

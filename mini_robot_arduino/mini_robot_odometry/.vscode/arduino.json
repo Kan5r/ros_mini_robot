@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:sam:arduino_due_x_dbg",
+    "sketch": "mini_robot_odometry.ino",
+    "port": "/dev/ttyACM0"
+}
